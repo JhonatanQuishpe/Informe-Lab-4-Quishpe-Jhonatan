@@ -70,7 +70,8 @@ La representacion grtafica del fazor es un vector en el plano cartesiano, usando
 ##### 76.1 Transforme a su forma polar:
 ![](https://fotos.subefotos.com/0f41c4a72f8178a3b8d744dafa96f82do.jpg)
 
-Proceso a seguir 
+        Proceso a seguir 
+        
 ![](https://fotos.subefotos.com/953e0164936aa1f3db8ec121c68fb7f6o.jpg)
 
 
@@ -78,14 +79,16 @@ Proceso a seguir
 
 ![](https://fotos.subefotos.com/a4000c3106e4e55d12c2ccd6d3a2064ao.jpg)
 
-Proceso a seguir 
+        Proceso a seguir 
+        
 ![](https://fotos.subefotos.com/cf9912f0dd3655cd1a5975741e6bf0edo.jpg)
 
 ##### 6.3 Realice las siguientes operaciones paso a paso, y represente el resultado tanto en su forma rectangular como en su forma polar.
 
 ![](https://fotos.subefotos.com/995f3ba77c785cf1c4d499443aaf3f2do.jpg)
 
-Proceso a seguir 
+        Proceso a seguir 
+        
 ![](https://fotos.subefotos.com/ec799eff6aac2e73bd269ba4a9cfe96co.jpg)
 ![](https://fotos.subefotos.com/78ca23e93d43370ee7b7b07ea72e9b83o.jpg)
 
