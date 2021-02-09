@@ -129,15 +129,15 @@ RECOMENDACIONES
 
 ###### 9.3 Realice las siguientes operaciones paso a paso, y represente el resultado tanto en su forma rectangular como en su forma polar.
 
-1
+            1
 
 ![](https://fotos.subefotos.com/936d27da6c4753c62283c9bd4e9edaeao.jpg)
 
-2
+            2
 
 ![](https://fotos.subefotos.com/36fac1d67cd5417e683e05d592933249o.jpg)
 
-3
+            3
 
 ![](https://fotos.subefotos.com/a284e263797db67df65026dc43de81b3o.jpg)
 
