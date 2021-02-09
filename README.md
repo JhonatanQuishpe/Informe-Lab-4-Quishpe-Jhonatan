@@ -141,6 +141,7 @@ RECOMENDACIONES
 
 ![](https://fotos.subefotos.com/a284e263797db67df65026dc43de81b3o.jpg)
 
-
+Video explicativo 
+[video del grupo en youtube](https://www.youtube.com/watch?v=9MDzc3re6vQ)
 
 
