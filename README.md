@@ -77,12 +77,14 @@ Proceso a seguir
 ##### 6.2 Transforme a su forma rectangular:
 
 ![](https://fotos.subefotos.com/a4000c3106e4e55d12c2ccd6d3a2064ao.jpg)
+
 Proceso a seguir 
 ![](https://fotos.subefotos.com/cf9912f0dd3655cd1a5975741e6bf0edo.jpg)
 
 ##### 6.3 Realice las siguientes operaciones paso a paso, y represente el resultado tanto en su forma rectangular como en su forma polar.
 
 ![](https://fotos.subefotos.com/995f3ba77c785cf1c4d499443aaf3f2do.jpg)
+
 Proceso a seguir 
 ![](https://fotos.subefotos.com/ec799eff6aac2e73bd269ba4a9cfe96co.jpg)
 ![](https://fotos.subefotos.com/78ca23e93d43370ee7b7b07ea72e9b83o.jpg)
@@ -95,7 +97,6 @@ Proceso a seguir
 ## 7.	CONCLUSIONES Y RECOMENDACIONES: 
 
 CONCLUSIONES 
-
 
 -  Los Fasores se asemejan mucho a un vector en el plano.
 - Para suma y resta de fasores, es más fácil resolver cuando los fasores están en coordenadas cartesianas.
@@ -124,13 +125,17 @@ RECOMENDACIONES
 
 
 ###### 9.3 Realice las siguientes operaciones paso a paso, y represente el resultado tanto en su forma rectangular como en su forma polar.
+
 1
+
 ![](https://fotos.subefotos.com/936d27da6c4753c62283c9bd4e9edaeao.jpg)
 
 2
+
 ![](https://fotos.subefotos.com/36fac1d67cd5417e683e05d592933249o.jpg)
 
 3
+
 ![](https://fotos.subefotos.com/a284e263797db67df65026dc43de81b3o.jpg)
 
 
